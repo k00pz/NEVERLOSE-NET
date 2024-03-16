@@ -1,0 +1,86 @@
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Neverlose.net"; 
+    Text = "Injected Successfully"; 
+    Icon = ""; 
+    Duration = 2;
+    Callback = bindableFunction;
+    Button1 = "";  
+    Button2 = "";
+})
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Neverlose.net"; 
+    Text = "If the Hub flickers its loading the script"; 
+    Icon = ""; 
+    Duration = 2;
+    Callback = bindableFunction;
+    Button1 = "";  
+    Button2 = "";
+})
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Neverlose.net"; 
+    Text = "Made by Fsploit powered by Exploit X"; 
+    Icon = ""; 
+    Duration = 2;
+    Callback = bindableFunction;
+    Button1 = "";  
+    Button2 = "";
+})
+
+
+local Library = loadstring(game:HttpGet("https://bitbucket.org/cat__/uis/raw/Loady/Module"), "Neverlose net")()
+local Window = Library:Window("Neverlose.net", function(Script)
+        loadstring(game:HttpGet(Script))()
+end)
+
+Window:Game({
+   Place = 13772394625,
+   Status = "Working",
+   Script = "https://raw.githubusercontent.com/k00pz/Hyperion-remake/main/Remaker",
+   UpdateDate = Window:GetDate("Local", "13/13/2024"),
+   Creator = "Fsploit"
+})
+
+Window:Initiate()
+
+Window:Game({
+   Place = 621129760,
+   Status = "Working",
+   Script = "https://raw.githubusercontent.com/k00pz/Kat-NEVERWIN/main/Akaka",
+   UpdateDate = Window:GetDate("Local", "13/13/2024"),
+   Creator = "Fsploit"
+})
+
+Window:Initiate()
+
+Window:Game({
+   Place = 6403373529,
+   Status = "Working",
+   Script = "https://raw.githubusercontent.com/k00pz/Ahaha/main/Mm",
+   UpdateDate = Window:GetDate("Local", "13/13/2024"),
+   Creator = "Fsploit"
+})
+
+Window:Initiate()
+
+Window:Game({
+   Place = 4924922222,
+   Status = "Working",
+   Script = "https://raw.githubusercontent.com/k00pz/Pocari/main/Pepsi",
+   UpdateDate = Window:GetDate("Local", "13/13/2024"),
+   Creator = "Fsploit"
+})
+
+Window:Initiate()
+
+Window:Game({
+   Place = 2788229376,
+   Status = "Working",
+   Script = "https://raw.githubusercontent.com/k00pz/Abakads/main/Ahahahha",
+   UpdateDate = Window:GetDate("Local", "13/13/2024"),
+   Creator = "Fsploit"
+})
+
+Window:Initiate()
+
