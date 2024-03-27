@@ -38,7 +38,7 @@ Window:Game({
    Place = 13772394625,
    Status = "Working",
    Script = "https://raw.githubusercontent.com/k00pz/Hyperion-remake/main/Remaker",
-   UpdateDate = Window:GetDate("Local", "13/13/2024"),
+   UpdateDate = Window:GetDate("Local", "3/13/24"),
    Creator = "Fsploit"
 })
 
@@ -48,7 +48,7 @@ Window:Game({
    Place = 621129760,
    Status = "Working",
    Script = "https://raw.githubusercontent.com/k00pz/Kat-NEVERWIN/main/Akaka",
-   UpdateDate = Window:GetDate("Local", "13/13/2024"),
+   UpdateDate = Window:GetDate("Local", "3/13/24"),
    Creator = "Fsploit"
 })
 
@@ -58,7 +58,7 @@ Window:Game({
    Place = 6403373529,
    Status = "Broken",
    Script = "https://raw.githubusercontent.com/k00pz/Ahaha/main/Mm",
-   UpdateDate = Window:GetDate("Local", "13/13/2024"),
+   UpdateDate = Window:GetDate("Local", "3/13/24"),
    Creator = "Fsploit"
 })
 
@@ -68,7 +68,7 @@ Window:Game({
    Place = 4924922222,
    Status = "Broken",
    Script = "https://raw.githubusercontent.com/k00pz/Pocari/main/Pepsi",
-   UpdateDate = Window:GetDate("Local", "13/13/2024"),
+   UpdateDate = Window:GetDate("Local", "3/13/24"),
    Creator = "Fsploit"
 })
 
@@ -78,7 +78,7 @@ Window:Game({
    Place = 2788229376,
    Status = "Working",
    Script = "https://raw.githubusercontent.com/k00pz/Abakads/main/Ahahahha",
-   UpdateDate = Window:GetDate("Local", "13/13/2024"),
+   UpdateDate = Window:GetDate("Local", "3/13/24"),
    Creator = "Fsploit"
 })
 
